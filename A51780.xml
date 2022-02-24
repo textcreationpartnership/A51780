@@ -1,0 +1,672 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of Europe briefly examined and found languishing occasioned by the greatness of the French monarchy for cure whereof a remedy, from former examples, is humbly proposed to His Royal Highness William Henry Prince of Orange and to the great convention of the Lords and Commons now assembled at Westminster : wrote upon occasion of the House of Common's vote to raise 8000001 to equip a fleet for the year 1671 mov'd thereunto by the pretended march of the French army toward the marine parts of Flanders / by Thomas Manley, Esq.</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51780</idno>
+            <idno type="STC">Wing M445</idno>
+            <idno type="STC">ESTC R18269</idno>
+            <idno type="EEBO-CITATION">13411070</idno>
+            <idno type="OCLC">ocm 13411070</idno>
+            <idno type="VID">99421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of Europe briefly examined and found languishing occasioned by the greatness of the French monarchy for cure whereof a remedy, from former examples, is humbly proposed to His Royal Highness William Henry Prince of Orange and to the great convention of the Lords and Commons now assembled at Westminster : wrote upon occasion of the House of Common's vote to raise 8000001 to equip a fleet for the year 1671 mov'd thereunto by the pretended march of the French army toward the marine parts of Flanders / by Thomas Manley, Esq.</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Balderin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99421:1"/>
+            <p>THE Preſent State OF EUROPE BRIEFLY Examined and found
+Languiſhing, Occaſioned By the Greatneſs of the <hi>French</hi> Monarchy:
+For Cure whereof a REMEDY (From former Examples) Is humbly propoſed to His
+Royal Highneſs <hi>William Henry</hi> Prince of <hi>Orange,</hi> And to the
+GREAT CONVENTION Of the LORDS and COMMONS Now Aſſembled at
+<hi>Weſtminſter.</hi> Wrote upon Occaſion of the Houſe of Common's Vote
+to raiſe 800000 <hi>l</hi> to Equip a Fleet for the Year 1671, mov'd
+thereunto by the Pretended March of the <hi>French</hi> Army towards the Marine
+Parts of <hi>Flanders.</hi>
+            </p>
+            <p>By <hi>THOMAS MANLEY,</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the
+<hi>Black Bull</hi> in the <hi>Old-Baily.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:99421:2"/>
+            <pb facs="tcp:99421:2"/>
+            <head>READER,</head>
+            <p>IT is now Seventeen Years ſince theſe Papers were Fram'd and
+intended for Pub<g ref="char:EOLhyphen"/>lick Conſideration, but the un<g ref="char:EOLhyphen"/>happy Temper of our
+Coun<g ref="char:EOLhyphen"/>ſels, and the Malignity of the Publick Licenſer prevented their
+Appearance till this Jun<g ref="char:EOLhyphen"/>cture.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99421:3"/>
+            <pb n="1" facs="tcp:99421:3"/>
+            <head>The State of <hi>Europe</hi> briefly Examined and found
+Languiſhing, <hi>&amp;c.</hi>
+            </head>
+            <p>THE preſent deſigns, and puiſſance of <hi>France</hi> both
+by Sea, and Land, being at once both the Wonder, and Dread of <hi>Europe,</hi>
+hath poſ<g ref="char:EOLhyphen"/>ſeſt me with ſo many ſad Reflections on that Subject, that I
+who am but duſt, and aſhes, and dwell in the ſhades of Obſcurity,
+cannot refrain to form, and meditate how Barrs may be put to ſuch approaching
+Dan<g ref="char:EOLhyphen"/>gers, eſpecially ſince the honour, ſafety, and welfare of our Prince,
+and Country ought to be the bent, and ſtudy of the moſt retired
+Subject.</p>
+            <p>The preſent State of <hi>Europe</hi> I might fitly reſemble to
+the Body of a Man, wherein all the Members either languiſh, or are
+viciouſly affected; ſome through ſelf-miſchiefs, others op<g ref="char:EOLhyphen"/>preſt by
+their Fellow-Members. <hi>Spain,</hi> (heretofore the great Pretender to the
+<hi>Weſtern</hi>-Monarchy) droops through her own Follies, whereof if ſhe
+expire, a Jury will undoubtedly find her a <hi>Felo de ſe,</hi> whilſt her
+Neighbour <hi>Portugal,</hi> inſtead of holding her ſick-head, and pitying
+her caſe, is ready on all occaſions to knock out her Brains. <hi>Italy</hi>
+and <hi>Germany</hi> are troubled with one Diſeaſe, through the windy
+humours of her many, and ambitious Princes, whoſe continual Jealouſies fill
+them with frequent Gripings, and Diſquiets: <hi>England</hi> and
+<hi>Holland</hi> are deſperately bruiſed through mutual buffetings, to
+which <hi>France</hi> cunningly loo'd them on, intending, like
+<hi>Si<g ref="char:EOLhyphen"/>meon,</hi> and <hi>Levi,</hi> to ſuppreſs theſe
+<hi>Shechemits,</hi> when ſore, and unable to reſiſt; all which
+Miſtakes and Calamities have been to <hi>France</hi> as ſo many Indulgent
+Nurſes to feed, and pamper her, who like unruly Cattel, treſpaſs moſt
+on that Neighbour <pb n="2" facs="tcp:99421:4"/>whoſe Fence is loweſt, and Quarry
+beſt without fear of im<g ref="char:EOLhyphen"/>pounding, whereby (like the Head in a Body Rickity)
+ſhe grows to an unproportionable, and dangerous bigneſs, whilſt her
+erring Neighbours (like the Members) waſt, and lan<g ref="char:EOLhyphen"/>guiſh; of whoſe
+ſudden, and prodigious growth I will not now inſiſt on, (which yet is
+none of the leaſt dreadful con<g ref="char:EOLhyphen"/>ſiderations) nor tell how our
+<hi>Cromwell</hi> ſeem'd a Dictator there, nor record how 6000 Engliſh
+Red-Coats was, at that time, more eſſential then Humanity, and Protection
+to an oppreſ<g ref="char:EOLhyphen"/>ſed King of the Bloud of <hi>France;</hi> for now the Scene
+being al<g ref="char:EOLhyphen"/>tred by the admirable Conduct of a Prince, whom therefore his Subjects
+ought to reverence, I cannot but obſerve how <hi>Chriſtendom,</hi>
+inſtead of a generous Reſentment, and defence of the Oppreſſed,
+Shrinks, and Faints at every undue ſeizure made by that haughty Monarch, as
+if they fancied ſuch ſoft<g ref="char:EOLhyphen"/>neſs could ſecure their own Peace, or charm
+an ambitious Conquerour into Modeſty, or put a ſtop to his Career, whoſe
+utmoſt end is the <hi>Weſtern</hi>-Monarchy, whereunto, with ſpread
+Sailes, he now apparently haſtneth; whereas they ought ra<g ref="char:EOLhyphen"/>ther to be
+powerfully perſwaded that ſuch tameneſs muſt at once enable, and
+encourage him to devour them alſo.</p>
+            <p>What Prudence can juſtifie ſuch procedure? can Time and
+Patience repare the Miſtakes? or may ſuch eaſie Conqueſts glut his
+Appetite, or poſſeſs him with Compaſſion to ſpare the reſt? or
+does not rather one Conqueſt beget a Stomach, and ability to more, and
+greater? who can ſuppoſe the ſeizure of <hi>Lorain</hi> will immerge him
+in Eaſe, and Voluptuouſneſs? or his Succeſſes in <hi>Flanders</hi>
+ſerve as an Attonement to ſecure the reſt? muſt not theſe unrevenged
+Conqueſts rather be as ſo ma<g ref="char:EOLhyphen"/>ny proſperous Gales to tranſport him to
+greater Atchievements? Seeing the like drouſineſs in relation to
+Chriſtian Princes gave occaſion formerly to the growth of the
+<hi>Ottomon</hi> Greatneſs, and is like ſtill to add to his Triumphs; and
+as an Hiſtorian obſerves in the like caſe of the ancient Britains,
+<hi>Dum ſinguli pugnant univerſi vincuntur.</hi>
+            </p>
+            <p>Remarkable then was the former Policy of theſe
+<hi>Weſtern</hi>-Princes, when, with the hazard of their Eaſe, and Lives,
+they maintain'd the power of <hi>Chriſtendom</hi> in an equal Ballance, 
+<pb n="3" facs="tcp:99421:4"/>dexterouſly throwing their Arms into that Scale which
+appear<g ref="char:EOLhyphen"/>ed lighteſt, knowing they ſecured thereby their own Peace, and
+Government: On this account <hi>England,</hi> and <hi>France</hi> are thought
+to have wiſely fomented the revault of the <hi>Low-Coun<g ref="char:EOLhyphen"/>tries,</hi> and were,
+in effect, as fond, by that means, to leſſen the Grandure of <hi>Spain</hi>
+(who then Alarum'd <hi>Europe,</hi> as <hi>France</hi> does now) as if they
+themſelves had made new Conqueſts; hence it was that <hi>Philip</hi> the
+Second, by way of requital, and our <hi>Elizabeth</hi> (to whoſe Ptudence,
+and Memory we owe our remaining Glories) threw Oyl, and not Water into the long
+Troubles of <hi>France;</hi> with which Council the ſame <hi>Philip</hi> was
+ſo tranſported, judging it the beſt expedient to improve his grand
+deſign of the <hi>Weſtern</hi>-Monarchy) that to carry the War into
+<hi>France</hi> he apparently (but not wiſely) neglected his own Affairs in
+the <hi>Low-Countries;</hi> thereby ſpoiling a moſt ſoveraign Antidote by
+an unſeaſonable application. Nor was the coſtly attempt of 88. any thing
+but carrying Fire into an Enemies Kingdom, the better to extinguiſh the Flame
+made by that Foe, in his Country; Kingdoms (like Houſes, in a dreadful Fire)
+being beſt ſecured by blowing up the next dangerous Neighbour: Hence the
+<hi>French</hi> are ſuppoſed (by no Fools) to have been both the Midwife,
+and Nurſe to our late Scotiſh, and Engliſh Wars; begot the ſeveral
+coſtly Wars between us and <hi>Holland.</hi> Conteind, and foſtred the
+revaults both in <hi>Catelonia,</hi> and <hi>Portugal,</hi> and of late
+aſſiſted that King both with Men, and Money.</p>
+            <p>
+               <hi>Cromwell,</hi> indeed, was an unparalled Sinner againſt this
+ancient King-craft, when poſt-poning the general tranquility to his own
+wretched Humour and Intereſt, he aſſiſted <hi>France,</hi> at ſuch a
+time, that all the World judg'd her too powerful for her Rival <hi>Spain,</hi>
+who then lay drooping under her own Wounds and Follies, in relation,
+principally to the ill Con<g ref="char:EOLhyphen"/>duct of her Treaſure, which alone will founder the
+ſtrongeſt Empire; and had this Nation no other Crime to charge on that ill
+man, (who, like the greateſt Mortals, muſt, living or dead, be expoſed to
+the ſevereſt cenſure of the people) it were alone ſufficient to render
+him an impolitick and hateful per<g ref="char:EOLhyphen"/>ſon to all Generations: Whereas on the
+contrary, we owe great <pb n="4" facs="tcp:99421:5"/>Reverence to the Wiſdom of His
+Majeſty in eſpouſing the Triple Alliance, and entring generouſly into
+other Leagues in order to ſecure the Peace of <hi>Chriſtendom:</hi> But
+yet, I humbly conceive, 'tis not enough for a cheap, ſure, and laſting
+Peace, ſo long as the Ballance remains ſo unequal between the two great
+Pretenders; and <hi>France,</hi> through her Military Grandure, continues ſo
+Arm'd, Able, and daring to give perpetual Frights, and Alarums to the whole
+Neighbourhood; whereby Peace, through a juſt, and neceſſary Jealouſie
+becomes as coſtly as War itſelf, conſuming thoſe that are
+ſuſpicious of her, and the daily motions, and buzzings of her Armies oblige
+the Neigh<g ref="char:EOLhyphen"/>bours, with Sword in Hand, to an Eternal Watchfulneſs, leaſt
+unawares the blow be given; which continual bendings in<g ref="char:EOLhyphen"/>evitably muſt draw
+ſo many dreadful weakneſſes on the par<g ref="char:EOLhyphen"/>ties concern'd, as muſt, at
+length, without a Miracle, im<g ref="char:EOLhyphen"/>prove both the Deſignes, and Glories of that
+Prince, which is ſo obvious to all conſidering Men, that ſome of his own
+Subjects have had the vanity of late, to boaſt even in this Kingdom, what
+Charge their King would put us unto by marching his Army (mighty, and in
+perpetual Pay) yearly near our Coaſts, before really he would attack us: and
+cer<g ref="char:EOLhyphen"/>tainly great muſt the advantage be which <hi>France</hi> hath now o<g ref="char:EOLhyphen"/>ver
+us (whereby in Eſtimate may be taken of our decay e<g ref="char:EOLhyphen"/>ven in the midſt of
+Peace) if when the humour poſſeſſeth that daring Monarch (whoſe
+Armies like Birds of Prey are always on the Wing) to move towards us either in
+pretence, or reallity (which by the event is only determinable) we muſt
+equip, at leaſt our Fleet, at ſix or ſeven hundred thou<g ref="char:EOLhyphen"/>ſand Pounds
+Charge to prevent the meer fear of an Invaſion; and when we are wearied, and
+conſum'd by ſo many fruitleſs, yet neceſſary Armings, and laid to
+ſlumber after ſo many falſe Alarums, who can but eaſily foreſee what
+dreadful Effects may enſue? wherefore I conclude with that great States man
+<hi>Cicero, Pace ſuſpecta tutius Bellum.</hi>
+            </p>
+            <p>But ſuppoſe, that whilſt the United Provinces, and
+<hi>Spain</hi> maintain their Poſts, we were able both to reſiſt his
+Attempts, and bear the Expence, yet 'tis fearce deniable, but if he de<g ref="char:EOLhyphen"/>vour
+thoſe Countries by Peice-meals, and pluck up that glo<g ref="char:EOLhyphen"/>rious <pb n="5" facs="tcp:99421:5"/>Common-wealth by the Roots (which, without effectu<g ref="char:EOLhyphen"/>ally
+Aſſiſtance, infallibly he will) we muſt alſo receive a Law from him;
+for what can then keep us, with the reſt of <hi>Chriſtendom</hi> from
+Subjection to that Crown? ſince we alrea<g ref="char:EOLhyphen"/>dy ſee the very clapings of his
+Wings beget Amazement: Joyn the Power, and Riches of <hi>Holland</hi> to him,
+and all the known World muſt bow to his Scepter.</p>
+            <p>Again, ſhould <hi>France</hi> attempt, and reduce us to ſevere
+Terms whilſt our Neighbours ſtand with their Arms acroſs, it would only
+expedite their Confuſion, and draw on them a more certain Conqueſt.</p>
+            <p>I will not therefore doubt but as the Safeties of us and our
+Allies are floating in one common bottom, and fortified by Mutual Intereſts,
+(the only true Cement of Leagues) ſo our joynt Deſignes, when once put into
+Action, will be vigorouſly puſh'd on till the Ballance of
+<hi>Chriſtendom</hi> be reduc'd to its pro<g ref="char:EOLhyphen"/>per Standard. And whereas it
+muſt be granted that no Con<g ref="char:EOLhyphen"/>queſts can Saciate, Bonds tye, nor Leagues
+charm this great Pretender, whereby the Milky ways of Peace may felicitate
+<hi>Europe,</hi> without the coſtly, and terrible Guards of Armies, ſo long
+as the Odds remains ſo unequal, and this Mighty <hi>Hero</hi> (Arm'd and
+Victorious) is able thus to affright the World, <hi>Hector</hi> his Neighbours,
+impoſe upon the Weak, and on every feeble Pretence ranſack their Countries
+without re<g ref="char:EOLhyphen"/>venge; nothing remains juſtifiable by the juſt Rules of Policy,
+but with the joynt Arms of all Parties concern'd (which indeed is all
+<hi>Europe</hi>) attack this Illuſtrious Man upon the ve<g ref="char:EOLhyphen"/>ry firſt juſt
+Provocation, and by dint of Sword carry the War into his own Boſom; and from
+the Example of wiſe Princes, make his Country at once both the Seat of War
+and Deſola<g ref="char:EOLhyphen"/>tion; whereof the <hi>Romans</hi> in the War of <hi>Carthage,</hi>
+are a puiſſant Inſtance; whereas on the contrary, the States, and Princes
+of <hi>Europe, Italy</hi> eſpecially, neglecting of late to Aſ<g ref="char:EOLhyphen"/>ſault the
+<hi>Turk</hi> powerfully before <hi>Candia,</hi> are now juſtly expect<g ref="char:EOLhyphen"/>ing
+him, with horror and amazement, at their own doors: He that fights in his
+Enemies Country, does in effect fight at his Enemies Coſt, and when Peace is
+clap'd up, leaves his Enemy, for that Age, Poor, and Miſerable, as we have,
+not long ſince, beheld in poor <hi>Germany:</hi> 
+               <pb n="6" facs="tcp:99421:6"/>The
+<hi>French</hi> K. therefore commonly makes himſelf the Aſſailant,
+maintaining half his Wars at his Adverſaries Charge, by fight<g ref="char:EOLhyphen"/>ing in their
+Countries; where, if he receive a Blow, has his own unharraſſed Kingdom
+either to receive, or recruit him; and our Heroick <hi>Elizabeth</hi> (who
+knowing that Vertue and Ju<g ref="char:EOLhyphen"/>ſtice were the only Ligaments of her Peoples Love,
+govern'd her Affairs with miraculous Wiſdom and Huſwifery, made her
+Payments ſure to a Proverb, and was accordingly adored) ſtudied by all Arts
+imaginable to fight her Enemies on their own Soyl, whereby at once ſhe
+imprinted thereon the terri<g ref="char:EOLhyphen"/>ble marks of Deſolation, and preſerv'd her
+Country as proper Fuel wherewith on all occaſions to conſume her
+Adverſaries. Nor was her Siſter <hi>Mary</hi> intentionally her inferiour
+in this particular, when the loſs of <hi>Callice</hi> (which in her hand was
+ſo ready an Inlet to aſſail either of the great Pretenders, as common
+Intereſt directed) was ſuppos'd either to have occa<g ref="char:EOLhyphen"/>ſioned, or haſtened
+her Death. For this reaſon all our Kings from the glorious <hi>Edward</hi>
+the Third, to Queen <hi>Mary,</hi> being 210 Years, with infinite care and
+coſt, preſerved <hi>Callice</hi> a<g ref="char:EOLhyphen"/>gainſt all Comers, as a Sacred Jewel
+of the Crown; however a ſort of new Policy ſeems of late to have been
+introduc'd. He that fights out of his Country, ſeldom ventures any thing
+beſides an Army; but he that is aſſaulted, and beat upon his own Dunghil,
+commonly loſeth that with the Victory, or at leaſt ſuffereth ten
+thouſand Calamities, beſides the uſual ter<g ref="char:EOLhyphen"/>rours of Invaſion: Whereof
+the <hi>Sweeds</hi> Diſcent into <hi>Germany,</hi> by vertue of her King's
+Courage and Alliances (ſuch as I drive at) is a wonderful Example; wherein a
+puiſſant Emperour (arm'd and victorious as <hi>France</hi> is now) was
+couragiouſly ſet upon, and after a fierce War of ſixteen Years, and the
+death (as is ſuppos'd) of three hundred thouſand <hi>Germans,</hi> torn to
+pieces by ſo many eager Confederates, (whereof <hi>France</hi> was none of
+the ſmall ones) who by the deep Counſels of thoſe mighty Oracles,
+<hi>Richelieu,</hi> and <hi>Oxenſtern</hi> (guided peradven<g ref="char:EOLhyphen"/>ture by a Divine
+hint) purſued this Method as the likelieſt way to chaſtiſe and humble
+that haughty Family, who other<g ref="char:EOLhyphen"/>wiſe, poſſibly, would by piece-meals, or
+drowſie Peace, have ſwaggered, if not ſubdu'd <hi>Europe.</hi> Let brave
+Princes for the <pb n="7" facs="tcp:99421:6"/>common ſafety of <hi>Chriſtendom,</hi>
+repeat this Counſel on ano<g ref="char:EOLhyphen"/>ther Theatre, the Scale may ſoon be turn'd, and
+<hi>France</hi> moſt juſtly be chaſtis'd with her own terrible Scourge
+forty years after; otherwiſe it muſt be a long, and unlucky War manag'd by
+<hi>France</hi> on the Soil of other Princes to make her miſerable ſo long
+as ſhe enjoys Peace at home; allow her that, and ſhe may tug hard with
+<hi>Chriſtendom;</hi> like <hi>Spain,</hi> who by vertue of the Domeſtick
+Peace, contended, in effect, with all <hi>Europe</hi> for eighty years, and put
+them ſhrewdly to their Trumps: Nothing more, then Peace at home, enables a
+Prince to ma<g ref="char:EOLhyphen"/>nage Wars abroad; he then that will humble his Enemy, muſt throw
+Wild fire into his Boſom, carry the War into his Coun<g ref="char:EOLhyphen"/>try, and ſtrike home
+at the Head, and Heart.</p>
+            <p>Nor are the ill Humours, which, peradventure, may be found in
+every Country, the meaneſt Argument to excite an Invaſive War; ſince poor
+<hi>Germany</hi> receiv'd the deepeſt Wounds from his own Weapons, and
+<hi>France</hi> by her Arbitrary Govern<g ref="char:EOLhyphen"/>ment, and Intollerable Impoſitions
+(to omit the natural fickle<g ref="char:EOLhyphen"/>neſs of her People, the oppreſſed
+<hi>Hughenots,</hi> and the lofty, and never dying Pretences of the Houſe of
+<hi>Conde</hi>) hath pro<g ref="char:EOLhyphen"/>bably prepared combuſtable matter wherewith at any
+time to conſume herſelf, when once, eſpecially her Neighbours, with
+powerful Arm, bring Flames unto it, which otherwiſe (as we have there often
+ſeen within this thirty years) is, in ef<g ref="char:EOLhyphen"/>fect, as ſoon extinguiſh'd as
+begun.</p>
+            <p>Why then does <hi>Europe</hi> ſlumber, and meekly ſuffer
+ſuch dan<g ref="char:EOLhyphen"/>gerous Cloudes to encreaſe, and impend, till of themſelves they
+break about their Ears? Our common Safeties invocate our common Arms to
+aſſail this Lyon in his Den, pare his Claws at leaſt, and abate his
+fierceneſs, and inſtead of expect<g ref="char:EOLhyphen"/>ing him in ours, attack him vigorouſly
+in his own Country on the next juſt Provocation, ſince nothing is more
+certain then that delays, and ſoftneſs fortifie the Danger, and improve
+that, which, in Prudence, is now reſiſtable, into a folly to with<g ref="char:EOLhyphen"/>ſtand:
+Slight diſtempers, at firſt diſpiſed, prove oftimes dead<g ref="char:EOLhyphen"/>ly; whereas to
+meet with a Diſeaſe, e're it come to the Cri<g ref="char:EOLhyphen"/>ſis, is a probable means to
+aſcertain the Cure, and <hi>Venienti occurrite Morbo</hi> may be as choiſe
+a Maxim in Government, as <pb n="8" facs="tcp:99421:7"/>Aphoriſm in Phyſick. <hi>Pax
+queritur bello</hi> was a ſhrewd Motto of a bad Man, and ought, more
+juſtly, on this occaſion, to be wrote in Capital Letters on all the
+Confederate Standards of <hi>Europe:</hi> In fine, he that ſees not an
+abſolute neceſſity of embracing ſpeedily a Confederate War to abate the
+Edge of this Illuſtrious Pretender, hath either not duly weigh'd the Danger,
+has ſome vile, and by-ends, <hi>Bedlam</hi> mad to intro<g ref="char:EOLhyphen"/>duce ſome
+Hereſie, or is reſolv'd to truckle. <hi>Tanti Religio po<g ref="char:EOLhyphen"/>tuit ſuadere
+malorum.</hi>
+            </p>
+            <p>I ſhould tremble to ſound a Trumpet to War (which is al<g ref="char:EOLhyphen"/>ways
+accompanied with fearful Circumſtances) did I not from my Soul believe that a
+Supream Peace, like an incurable Gan<g ref="char:EOLhyphen"/>green, would create greater Calamities,
+and introduce both a certain War, and the hazard of a total Subverſion; for,
+if whilſt we become meer Spectators of our Neighbor's Loſſes, and
+Calamities, this Prince, either by force, or ſubtilty im<g ref="char:EOLhyphen"/>prove his Dominions,
+we can expect no other favour but the miſerable ſatisfaction either to be
+laſt devoured, or ſhamefully impos'd upon; which ſounds ſo dolefully in
+every free-born Ear, that to prevent it, nothing can be eſteem'd too dear;
+whereas a ſpeedy Arming of all the Confederates may not on<g ref="char:EOLhyphen"/>ly repel, but
+force the Infection into his own Bowels, and make him experimentally feel
+thoſe Miſeries, which, meerly to aggrandize his Name, and Kingdom, he has
+incompaſſo<g ref="char:EOLhyphen"/>nately brought on others; whereof I may not doubt, when I
+conſider how one of His Majeſties three Kingdoms by the proper Vertue of
+her Kings (which were truly Heroick) and the ſlender help of ſome one
+Confederate, hath more then once made terrible Impreſſions in
+<hi>France,</hi> and turn'd up even the Foundations of her Government; for
+which thoſe brave Princes will be eternally celebrated, whilſt the Memory
+of the Sloathful, and Voluptuous periſh, who by forgeting their own, and
+their Nations Honour, have taught their own, and future Ages to forget and
+diſhonour them; ſo true is it, that that Prince who Reigns without Honour,
+lives in Contempt, and Danger, and has his Tomb, at laſt beſmeared with
+Re<g ref="char:EOLhyphen"/>proaches.</p>
+            <p>
+               <pb n="9" facs="tcp:99421:7"/>Men cannot be wanting for ſo honourable, and
+neceſſary a War, whilſt theſe three Kingdoms enjoy Peace at home; nor
+Money, (the Soul of War) if prudently manag'd; ſince the Iſſue of ſuch
+a War muſt, with the Divine Bleſſing, ſe<g ref="char:EOLhyphen"/>cure the Subjects in their
+Beds, and eſtabliſh ſuch a Peace as may be a laſting Happineſs to the
+Chriſtian World; they will therefore certainly tear open their Breaſts, and
+give the King their Hearts, and with them their Hands, and Purſes, whilſt
+with <hi>Cato</hi> they eſteem nothing too dear for the Peace of the
+Common-wealth, according to the <hi>Dutch</hi> Motto, <hi>Defend us, and
+ſpend us.</hi>
+            </p>
+            <p>And although we muſt not expect a cheap War, yet certainly it
+cannot be dearer then a watchful, ſuſpected, and languiſhing Peace;
+ſince if His Majeſty maintain; for his ſhare, maintain 14 or 15
+thouſand Foot, and 4000 Horſe, the pay whereof will not exceed five hundred
+and thirty thouſand Pounds <hi>per Annum,</hi> nor go beyond a yearly Tax of
+10 pence in the Pound; a Sum, which otherwiſe (with much more) muſt be
+yearly ſpent in watching a ſeeming Friend that he become not a real Enemy,
+and yet not be able to prevent it at laſt. Nor needs this Treaſure be
+exported in Specie, (which by all imaginable ways ought to be avoided as part
+of our Life-blood) but the value thereof tranſported in the Growths, and
+Mani<g ref="char:EOLhyphen"/>factures of <hi>England,</hi> (beſides Clothes for the Souldiery) which
+either His Majeſty's Miniſters may there expoſe to Sale, or our
+Confederates be obliged to anſwer quarterly at a certain Rate; being
+aſſured the <hi>Sweeds</hi> maintain'd that long War in <hi>Germany</hi>
+without drawing any Silver out of their Dominions, but contrariwiſe enrich'd
+their Country with the choiceth Spoils of their Enemies, as by woful experience
+we have found the <hi>Scots</hi> wiſely to practiſe upon us.</p>
+            <p>I know it will be Objected, that we are in an untoward pickle to
+begin a War, after ſo many hideous Calamities, grievous Impoſitions, and
+univerſal fall of our Rents, occa<g ref="char:EOLhyphen"/>ſioned by a thouſand Follies; and why
+ſhall we throw off Peace a moment ſooner then we muſt needs looſe her,
+ſee<g ref="char:EOLhyphen"/>ing with the loſs of her, our Trade muſt be miſerably
+inter<g ref="char:EOLhyphen"/>rupted?</p>
+            <p>
+               <pb n="10" facs="tcp:99421:8"/>To which I anſwer, That were the continuance
+of Peace, and Trade to be always at our Option, and that probably, the power of
+no Neighbour could ever part us, he were be<g ref="char:EOLhyphen"/>yond the Cure of <hi>Hellibore</hi>
+that would propoſe War in their ſtead; but ſeeing the Caſe is quite
+contrary, Peace, and Trade were better ſuſpended for ſome years, with
+probable hopes to enjoy them plentifully afterwards, then after a ſhort
+enjoyment, to humour an unreaſonable fondneſs, looſe them and freedom
+eternally. Not but that I am powerfully per<g ref="char:EOLhyphen"/>ſwaded, that the very
+commencement of ſuch a War, may be ſo far from interrupting our Trade a
+moment, that it may be, at once, the only means to enlarge ours, and beat the
+<hi>French</hi> out of hers: Whereas we now plainly ſee, how during this
+preſent uncertain Peace, ſhe dilates her Commerce, and thrives on the
+Ocean; which with the very firſt approaches of a Confederate War, muſt in
+all probability vaniſh; whilſt the <hi>Dutch</hi> and We have thereby ſo
+many advantages both to beat her out of Sea, and encreaſe our own Navigation
+and Traffick. This is certain, ſuch a War cannot prejudice us, by hindering
+our Trade with her; it being notoriouſly known that our Commerce there, is,
+at once, miſchievous to us, and ſtrangely advantageous to her, whether you
+reſpect the open, or clandeſtine Traffick: Firſt, in the Quantity, by the
+vaſt over-ballance of her Commodities. And Secondly, in the Quality of them;
+thoſe which ſhe receives from us, being ſuch as are neceſſary, and
+uſeful to her, and infinitely diſad<g ref="char:EOLhyphen"/>vantagious to us, as our Wool,
+<hi>&amp;c.</hi> whilſt we import nothing thence but what we were a
+thouſand times better to be with<g ref="char:EOLhyphen"/>out; and ſuch as if we conſume them not,
+muſt, in effect, periſh on their hands, to the infinite prejudice of her
+King, and People, as we know they now ſuffer by the <hi>Dutch</hi> late
+prohibition of Brandy, Salt, <hi>&amp;c.</hi> and which, to gratifie our ill
+tutred Humours, and Appetites, ſubdue our Rents, corrupt and impoveriſh our
+Nobility and Gentry, deſtroy our Manufactures, and ſnatch the Bread out of
+the Mouths of our Artificers, and by conſequence encreaſeth our Poor, and
+ren<g ref="char:EOLhyphen"/>der us the moſt vain and luxurious Creatures in <hi>Europe.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:99421:8"/>And although I cannot magnifie our preſent
+condition, and fitneſs for War, yet certainly 'tis ſafer enterpriſing her
+abroad (as ſhaken as we are) with the help of powerful Confederates (whoſe
+Shoulders may bear part of the burthen) whilſt there remains freſh hopes of
+Victory, then ſlumber in a dangerous Peace, till invincible Miſchiefs awake
+us, our Neighbours ſub<g ref="char:EOLhyphen"/>du'd, our Trade expired, War brought to our Doors by a
+tri<g ref="char:EOLhyphen"/>umphant Enemy heightned by Conduct, and Succeſſes, and Cock-pit Law
+againſt us; hoping now by a reaſonable Army, (ſuch as the Nation may
+maintain in Pay, and Courage) and the joynt Force of Confederates, to reduce
+the Scale, and confirm that Peace which thrice their numbers, and treble Charge
+at another time cannot procure; and of all Evils the leaſt is always to be
+choſen.</p>
+            <p>If I be asked what Aſſurance can Princes have of Alliances,
+ſince all Ages afford untoward Inſtances of foul play therein, to the Ruin,
+commonly of the moſt ſincere, and daring?</p>
+            <p>Not to diſtinguiſh between the diſſimulation of the
+<hi>South,</hi> (where under the Name of Prudence, and Circumſpection,
+Falſhood, and Frauds are daily reverenced) and the ſincerity of the
+<hi>North,</hi> (where moſt of our Alliances are:) Nor de<g ref="char:EOLhyphen"/>bate the difference
+between Leagues commenced by Revenge, Paſſion, or ſome frivolous
+Capricio, (which are no ſooner patch'd together then rend aſunder) and
+thoſe led on by the exact Rules of common Safety and Government (whoſe
+re<g ref="char:EOLhyphen"/>ſults are immortal) I anſwer, That honourable Leagues hold commonly
+Inviolable until the ſeveral Fundamental Intereſts of the Confederates are
+ſecured: Now 'tis almoſt impoſſible that any Princes true Intereſt
+can be ſecured whilſt <hi>France</hi> remains ſo Mighty, and Rampant: Let
+a League hold till her ſwag<g ref="char:EOLhyphen"/>gering Fit be over, her Nails pared, and ſhe
+reduc'd to terms of Modeſty, and good Neighbourhood, and then let the Al<g ref="char:EOLhyphen"/>lies
+fall off as they pleaſe: I know in all Leagues of this nature, differences
+from ſeveral little Intereſts have riſen, how far it has been ſafe, or
+neceſſary to weaken the common Enemy; wherein ſome have always been
+fiercer for a total Subverſion then others, as in the miſerable Caſe of
+<hi>Germany,</hi> wherein nothing would ſatisfie the <hi>Sweed,</hi> and
+<hi>French,</hi> but dividing the <pb n="12" facs="tcp:99421:9"/>very Carkaſs of the
+Emperial Eagle, whilſt the reſt of the Confederates were contented to cut
+off her Beak, and Tal<g ref="char:EOLhyphen"/>lants; yet they all agreed in this, that ſhe was to be
+reduc'd and weakned: But ſuppoſe that Allies ſhould prove falſe when
+once a War is commenced, what would it do elſe but at once haſten the ruin
+of them all? And in the mean time in<g ref="char:EOLhyphen"/>ſtruct the deſerted Prince to yield to
+larger terms, out-bid the Apoſtates, ſtoop to the Pretender, (who, as a
+generous Con<g ref="char:EOLhyphen"/>querour muſt pity ſuch) and with him, in revenge, ſet upon
+the perfidious, and make them eternally repent ſuch unwor<g ref="char:EOLhyphen"/>thineſs, unleſs
+ſafe Counſels in the mean time preſent.</p>
+            <p>Again, it may be objected, that Peace ought to be preſerved as
+long as may be, in hopes that this buſie, and dangerous Prince may expire
+e're his haughty Deſigns are accompliſh'd, and the Affairs of
+<hi>France</hi> fall thereby into the hands of an In<g ref="char:EOLhyphen"/>fant, or a lazy and
+effeminate Prince, (that is worſe than a Child) accompanied (as commonly)
+with corrupt, faith<g ref="char:EOLhyphen"/>leſs, or factious Counſellors, and Flatterers, the
+Vermine of Court, and Plague, and Ruine of Crowns and Sceptets, whereby
+(without the hazard of a War) her huffling, and proſperous condition (as
+frequent examples tell us) may be rendred languiſhing enough.</p>
+            <p>I anſwer, That that which may be, may not be, and ei<g ref="char:EOLhyphen"/>ther this
+active Prince, who is now but 32, may live (without a powerful Confederacy) to
+give <hi>Europe</hi> a woful conviction of the Folly of ſuch lazy Counſel,
+or leave a Succeſſor to tread in his glorious Steps, till that be
+accompliſh'd, which all but <hi>French</hi>-men ought to abhor, whatever
+their Religious Perſwaſi<g ref="char:EOLhyphen"/>ons are; and what wiſe man will expoſe, even
+his little pri<g ref="char:EOLhyphen"/>vate Affairs to ſuch a Riſque, when ſafer Remedies are at
+hand.</p>
+            <p>If it be ſaid, That in caſe our Neighbours think fit to
+in<g ref="char:EOLhyphen"/>vade us, we have ſtore of <hi>Sampſons</hi> to give them Warlike
+En<g ref="char:EOLhyphen"/>tertainment, whereby we may defend our own without con<g ref="char:EOLhyphen"/>cerning our ſelves
+in Affairs abroad.</p>
+            <p>I anſwer, <hi>First,</hi> This is clearly againſt the practice
+of our re<g ref="char:EOLhyphen"/>nowned Anceſters, and of all wiſe States in all Ages, who have
+choſen to fight their Enemies on an Enemies Soyl at any <pb n="13" facs="tcp:99421:9"/>rate, rather then ſuffer the Terrours and Deſolations of an
+In<g ref="char:EOLhyphen"/>vaſion, though the Enemy ſhould have periſh'd all on the ſpot.
+<hi>Secondly,</hi> There is a Moral Impoſſibility to maintain
+<hi>England</hi> otherwiſe then in a languid and frightful condition, were
+her <hi>Sampſons</hi> twice as many, ſhould <hi>France</hi> (whilſt we
+ſlumber) reduce the <hi>Spaniſh,</hi> and United Provinces, and annex the
+greater part of <hi>Germany</hi> to his Flouriſhing and Mighty King<g ref="char:EOLhyphen"/>dom;
+Acquiſitions whereof he has too fair a Proſpect. <hi>Thirdly,</hi> I dare
+affirm, that nothing but invincible Neceſſity, or ill Coun<g ref="char:EOLhyphen"/>ſel ever
+diſpos'd a Prince to receive an Enemy into his own Bowels inſtead of
+ſeeking him abroad, for which I humbly offer theſe Reaſons.</p>
+            <list>
+               <item>1. The Aſſailants both in their own, and their Enemies
+O<g ref="char:EOLhyphen"/>pinion (which in War, works mighty Effects) have com<g ref="char:EOLhyphen"/>monly the Reputation of
+being the better Men, meerly be<g ref="char:EOLhyphen"/>cauſe they have the courage to ſeek the
+Enemy at his own door.</item>
+               <item>2. The Invador ſeldom ventures any thing beſides an Army,
+which ten to one is exceedingly ſtrengthned (eſpecially if his uſage, or
+pay be good) by either Male-contents in Church, or State, or Neceſſitous
+Perſons, to whom Novelty is wel<g ref="char:EOLhyphen"/>come, and all Governments alike; a Reaſon
+which made <hi>Ly<g ref="char:EOLhyphen"/>curgus</hi> fear to ſee a Begger, or a voluptuous Perſon,
+who rides Poſt to Poverty, dwell in <hi>Sparta.</hi>
+               </item>
+               <item>3. The aſſailed Prince, in caſe he has not a ſtanding
+Army, and mighty Treaſure, is, by an Invaſion caſt into ten thouſand
+ſtraits in procuring Moneys, and raiſing Men, when he ſhould be fighting
+the Enemy, or ſecuring the Country; whilſt the people inſtead of taking
+Sword in hand fly with their amazed Families before the Enemy they know not
+where, curſing the Follies of the Government which have undone them, whilſt
+Invaſions ſeldom leave other Counſellers but Fear and Revi<g ref="char:EOLhyphen"/>lings, whoſe
+Reſults are always wild and prepoſterous.</item>
+               <item>4. If a Prince has not a Treaſure of his own, he ſhall
+ſcarce command the Purſes of his Subjects upon an Invaſion, when they are
+buſier in concealing their Mony to ſupply their own wants in the day of
+Calamity, then expend it in defence of the Publick, which their fond hopes
+inſinuate may either be <pb n="14" facs="tcp:99421:10"/>ſav'd without it, or fears
+ſuggeſt is paſt recovery with it, as was clearly ſeen in the loſs of
+<hi>Conſtantinople,</hi> when taken by <hi>Mahomet</hi> the Great; unleſs
+the Subject has an egregious Reve<g ref="char:EOLhyphen"/>rence for the Government, and Counſels of
+the Prince, as the Reſults of his Juſtice, and Vertue, whereof the great
+Queen <hi>Elizabeth</hi> in the attempt of 88 is a Glorious Inſtance.</item>
+               <item>5. Souldiers are generally obſerv'd to be moſt warlike,
+and managable fartheſt from home, when freed from the Cares and Addreſſes
+of Wives and Families.</item>
+               <item>6. The Prince aſſailed had need ſtand right in the
+Opinion of his people in relation to his Religion, Treaſure, and Go<g ref="char:EOLhyphen"/>vernment;
+for if they (who in all Diſaſters will be Judges in ſpite of Fate) have
+once loſt all Sentiments of Veneration, and Confidence of him through
+Miſ-govovernment, they ſoon grow to deſpiſe and naciate all his
+Actions, Diſtruſt, and preindicate his Counſels, invocate the Ghoſt of
+ſome glorious Anceſtor, and are eaſily won by the next Comer.</item>
+               <item>7. The Prince aſſailed doth not only on a Battle or two
+venture his Country, wherein if he be beaten, he is certainly Conquered, but if
+he ſubdue the Aggreſſors, he has only their Carkaſſes to attone for
+the devaſtation of his Country (the certain effect of Invaſion, and next to
+a Conqueſt, the buſi<g ref="char:EOLhyphen"/>neſs of an Enemy) which haſtens Barbarity, and a
+certain Careleſneſs, and opens an eaſie way to the next comer; as it
+fared with this Iſland in relation to the <hi>Danes, Saxons,</hi> and
+<hi>Normans,</hi> whoſe Conqueſts and Preſſures made way one for
+another; ſo true is it, that Poverty weakens the hands, and intimedates the
+hearts of mankind, and alſo renders Countries not worth keeping.</item>
+               <item>8. 'Tis the fundamental Intereſt of Princes to keep the
+Ballance even, which is not to be done without Confederacies, &amp; warring
+upon the growing and dangerous Monarch, it being certain that Armies, Fleets,
+and Fortreſſes (though highly valuable in their kind, and without which
+Kingdoms are defective) ſecure a Country not half ſo ſafe, or cheap as
+parity of ſtrength among Neighbouring Princes.</item>
+               <item>9. A Prince, who with his <hi>Sampſons</hi> intends only
+his own defence, without regard had of his Neighbours Peace and 
+<pb n="15" facs="tcp:99421:10"/>Safety, may one day fall without the help or pity of his
+Neigh<g ref="char:EOLhyphen"/>bours, as the Excellent Sir <hi>Philip Sidny</hi> obſerves, he that
+only ſtands on his own Defence, ſtands on no Defence.</item>
+            </list>
+            <p>For theſe Reaſons a Kingdom abounding with
+<hi>Sampſon</hi>'s ought therefore to encounter the <hi>Philiſtins</hi> in
+the <hi>Philiſtins</hi> Country to prevent their marching into
+<hi>Canaan;</hi> ſince every Prince, by the plain Rules of Diſcretion,
+ought rather to humble the thriving Monarch by making his Country the Theatre
+of War, (whereon is acted nothing but Horrours, and fearful Repreſentations)
+then ſee his own even with Vi<g ref="char:EOLhyphen"/>ctory, a Field of Bloud and Deſolation</p>
+            <p>
+               <hi>Laſtly,</hi> If from the doubtful event of War it be
+alledged that Peace even on any terms ought to be maintained.</p>
+            <p>I anſwer, That from the uncertainty of War there remains to us
+as much hopes of ſucceſs, as fear of miſcarriage, but from a Supine Peace
+we have only a certain aſſurance to be ſubdu'd at laſt, without the
+leaſt rational hopes to eſcape; for let <hi>France</hi> extend her
+Conqueſts and Tryumphs, whilſt we bask and wantonnize in Peace, and no
+imaginable ſoftneſs and compliance of ours can oblige her, till ſhe has
+juſtly branded us with ſome hateful marks of Subjection; this ſort of
+Peace being like a Mercenary Woman, enchanting at firſt, but rea<g ref="char:EOLhyphen"/>dy enough at
+laſt to betray us to a thouſand Miſchieſs, when once her vile ends are
+accompliſh'd: And the better to repre<g ref="char:EOLhyphen"/>ſent this Danger, we muſt
+conſider what inclinations <hi>France</hi> has to us, when during the late
+<hi>Dutch</hi> inglorious attempt at <hi>Cha<g ref="char:EOLhyphen"/>tham</hi> (whereunto by our own
+nakedneſs and proſtitution they were invited, and by what elſe I know
+not) ſhe was upon the point of Invading us with a Royal Army, though Affairs
+ſeem<g ref="char:EOLhyphen"/>ed not then ripe for ſo high an Attack; which if ſhe had
+ne<g ref="char:EOLhyphen"/>vertheleſs perform'd, what dreadful Effects muſt have enſued, I leave
+them to judge, who, (with my ſelf) either ſaw our ſtrange Conſternation
+upon the Attempt of a weak, yea and modeſt Enemy in <hi>June</hi> 1667, or
+ever beheld a powerful Ar<g ref="char:EOLhyphen"/>my in an Enemies Country; and although peradventue we
+might have deſtroy'd them, yet if they had ſtood but two months to an end,
+and harraſſed four or five Counties, it had been far leſs Charge to the
+Nation (beſides our diſhonour and <pb n="16" facs="tcp:99421:11"/>hazard of our Navy,
+and Naval Stores) to have born the Expence of an Offenſive War ſo many
+years together: Nor muſt we imagine this haughty Deſign of <hi>France</hi>
+(where the eaſie Conqueſts of <hi>England,</hi> and her drooping Condition
+is lately exhibited in print) is otherwiſe then wiſely defer'd till ſhe
+is become our Rival at Sea, and <hi>Flanders</hi> ſubdu'd; for both which
+ſhe now bids fairly, unleſs by ſome Potent Confedera<g ref="char:EOLhyphen"/>cy ſhe be happily
+prevented: And when in our weekly Audi<g ref="char:EOLhyphen"/>ences I read of the <hi>French</hi>
+Growth, and Marine Preparations eſpecially, (which our Glorious Queen though
+Friend enough to <hi>Henry</hi> the Fourth, abhorr'd to ſuffer, knowing the
+conſe<g ref="char:EOLhyphen"/>quence to be ſuch which by Experience we now find) and yet ſee the
+World inclin'd to ſlumber; I cannot diſcern whether we are warn'd to a
+generous Reſiſtance, or to prepare our Necks for the Yoak: In the mean time
+the Ghoſt of that renowned Woman (who yet loves her Country even in the
+ſhades of Death) reproves us for ſuffering theſe <hi>French</hi> thus to
+encreaſe at Sea; and from her profound Experience recommends to us Juſtice,
+and Thrift in Publick Treaſure, (as the main Pillar of the Government) and
+War in the great Pretenders Country; (as the beſt Expedient to keep Peace at
+home) from which Rules the Prince that ſwerves muſt end Ingloriouſly, and
+be content to be hard cenſured by Poſterity; however out of fear he may
+eſcape his own Generation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
